@@ -1,0 +1,60 @@
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\csc.exe
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\vbc.exe
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll.config
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.pdb
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.dll
+c:\users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.pdb
+C:\Users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.csprojResolveAssemblyReference.cache
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\csc.exe
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\vbc.exe
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll.config
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.pdb
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.csprojResolveAssemblyReference.cache
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.dll
+C:\Users\ylu\Desktop\InventoryTracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.pdb
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\csc.exe
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\vbc.exe
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll.config
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\InventoryTrackerWeb.pdb
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.csprojResolveAssemblyReference.cache
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.dll
+C:\Users\ylu\Desktop\InventoryTracker\Excel-Add-in-JS-Inventory-Tracker\InventoryTrackerWeb\obj\Debug\InventoryTrackerWeb.pdb

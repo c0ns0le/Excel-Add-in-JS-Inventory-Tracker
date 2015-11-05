@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="InventoryTracker"
+     ProductID="{c3dd8a8f-8bd4-408c-aa2c-0a16338bd73d}"
+     Version="1.0.0.0"
+     SharePointMinVersion="15.0.0.0"
+>
+  <Properties>
+    <Title>InventoryTracker</Title>
+    <StartPage>http://go.microsoft.com/fwlink/?LinkID=278993</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>

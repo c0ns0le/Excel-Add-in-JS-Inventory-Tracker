@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\InventoryTrackerManifest.xml
+C:\Users\ylu\documents\visual studio 2015\Projects\InventoryTracker\InventoryTracker\bin\Debug\InventoryTracker.debugapp
